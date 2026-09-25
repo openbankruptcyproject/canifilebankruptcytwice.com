@@ -1,5 +1,5 @@
-# Can You File Bankruptcy Twice? - Rules & Limits [2026]
-> Last updated: 2026-05-01
+# Can You File Bankruptcy Twice? - Rules &amp; Limits [2026]
+> Last updated: 2026-09-25
 
 > Yes, you can file bankruptcy twice. Learn the waiting periods between Chapter 7 and Chapter 13 filings. 2026 rules explained.
 
@@ -7,8 +7,9 @@
 canifilebankruptcytwice.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Can You File Bankruptcy Twice? - Rules & Limits: https://canifilebankruptcytwice.com/
+- Can You File Bankruptcy Twice? - Rules &amp; Limits: https://canifilebankruptcytwice.com/
 - Privacy Policy: https://canifilebankruptcytwice.com/privacy.html
+- About canifilebankruptcytwice.com: https://canifilebankruptcytwice.com/about.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
